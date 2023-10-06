@@ -548,6 +548,10 @@ img {
     display: flex;
 }
 
+.footer-bottom{
+    margin-left: 80px;
+}
+
 .footer-subtitle-btn {
 color: var(--WHITE, #FFF);
 font-size: 16px;
