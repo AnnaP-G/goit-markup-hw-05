@@ -680,7 +680,7 @@ letter-spacing: 0.02em;
 
 .modal-btn:hover > .modal-btn-icon,
 .modal-btn:focus>.modal-btn-icon {
-    fill: #FFF;
+    fill: ffffff;
 }
 
 .modal-title {
