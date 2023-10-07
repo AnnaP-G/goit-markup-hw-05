@@ -620,6 +620,11 @@ letter-spacing: 0.02em;
     margin-left: 16px;
 }
 
+.footer-form-btn:hover,
+.footer-form-btn:focus {
+    background-color: var(--OCEAN, #404BBF);
+}
+
 .backdrop {
     position: fixed;
     width: 100%;
