@@ -732,6 +732,10 @@ letter-spacing: 0.02em;
     margin-bottom: 8px;
 }
 
+.modal-comment {
+    margin-bottom: 16px;
+}
+
 .modal-form-btn {
     padding: 16px 32px;
     color: var(--WHITE, #FFF);
@@ -817,7 +821,6 @@ letter-spacing: 0.02em;
     font-weight: 400;
     line-height: 1.17;
     letter-spacing: 0.04em;
-    display: flex;
     align-items: center;
 }
 
