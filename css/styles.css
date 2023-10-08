@@ -670,7 +670,7 @@ letter-spacing: 0.02em;
 .modal-btn:hover,
 .modal-btn:focus {
     background-color: #404bbf;
-    border-color: #404bbf;
+    border: none;
 }
 
 .modal-btn-icon {
@@ -792,7 +792,7 @@ letter-spacing: 0.02em;
     display: flex;
     align-items: center;
     margin-bottom: 16px;
-    color: #434455;
+    color: rgba(46, 47, 66, 0.4);
 }
 
 .modal-textarea:focus {
